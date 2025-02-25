@@ -1,9 +1,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de análise de dados.
 - 🎓 &nbsp; Estudando **Sistemas de Informaçao** na <a href="https://www.pucminas.br">PUC Minas</a>.
-- 💼 &nbsp; Atualmente sem trabalho <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **C# e HTML5**.
+- 💼 &nbsp; Atualmente sou estagiário de Business Intelligence na  <a href="[LINK DA EMPRESA](https://www.global.weir/pt-BR/brands/esco/)">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Ciência de dados e Python**.
 
 <p align="left">
   <a href="#" alt="Gmail">
