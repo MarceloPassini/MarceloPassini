@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de análise de dados.
 - 🎓 &nbsp; Estudando **Sistemas de Informaçao** na <a href="https://www.pucminas.br">PUC Minas</a>.
-- 💼 &nbsp; Atualmente sou estagiário de Business Intelligence na  <a href="[(https://www.global.weir/pt-BR/brands/esco/)]">Weir ESCO</a>
+- 💼 &nbsp; Atualmente sou estagiário de Business Intelligence na  <a href="https://www.global.weir/pt-BR/brands/esco/">Weir ESCO</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Ciência de dados e Python**.
 
 <p align="left">
